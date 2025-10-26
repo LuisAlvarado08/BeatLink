@@ -45,14 +45,6 @@ BeatLink helps users instantly connect the songs they love with upcoming concert
 - Potentiometer pin (optional): adjusts display contrast
 
 ------------------------------
-## 🧰 Hardware Setup
-
-Below are pictures of the ESP32 Music Display hardware:
-
-| ESP32 + LCDs | Wiring Overview | Final Prototype |
-|---------------|----------------|----------------|
-![ESP32_setup](Hardware_images/ESP32_setup.jpg) | ![ESP32 LCD1](Hardware_images/LCD_1_setup.jpg) | ![ESP32_LCD2](Hardware_images/LCD_2_setup.jpg) | ![Potentiometer(Hardware_images/potentiometer_setup.jpg) | ![Final_setup](Hardware_images/Complete_setup.jpg)
-
 
 ## 💻 Software Setup
 
