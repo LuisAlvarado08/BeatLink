@@ -136,7 +136,7 @@ void setup() {
   pAdvertising->addServiceUUID(SERVICE_UUID);
   pAdvertising->start();
 
-  Serial.println("✅ BLE Ready. Waiting for connection...");
+  Serial.println("BLE Ready. Waiting for connection...");
   lcd1.setCursor(0, 1);
   lcd1.print("Ready for BLE!");
 }
