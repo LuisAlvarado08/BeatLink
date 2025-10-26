@@ -1,2 +1,2 @@
 # BeatLink
-Displays live music and concert info on dual LCDs via ESP32 + BLE + Spotify API + Ticketmaster API
+Bluetooth-powered music display that shows top Spotify songs and upcoming Ticketmaster concerts on an ESP32 LCD.
